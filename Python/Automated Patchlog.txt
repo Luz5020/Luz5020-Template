@@ -1,3 +1,0 @@
-This File contains automatically generated Timestamps, that are triggered manually, basically they mark the last commit before PULL request
-Automated logging requested at 2022-03-21 19:13:00.572114
-Automated logging requested at 2022-03-24 18:43:33.329355
