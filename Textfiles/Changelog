@@ -1,0 +1,31 @@
+Indev 01
+-Added Changelog
+-Added Dummy Files to help restructure Repo 
+-Added Folders
+-Added Patchlog
+Indev 02 (Warning!: Development Prototype!)
+-Added first actual Files
+-Removed Dummy Files
+-Added C.O.R.E. Structure (Cool Offshore Recompiler Event)
+-Added C.O.R.E. Math Module
+-Added Math addition (single file)
+-Added Math subtraction (single file)
+-Added Math iseven (single file)
+-Added Math multiplication (single file)
+-Added Math division (single file)
+-Added the playground
+-Files in playground are not eligible for mentioning in this Changelog
+Indev 03 (Warning!: Development Prototype!)
+-Reworked all Math sub-core modules for operations with functions
+-Fixed newline issues
+-Minor fixes
+Indev 03 experimental commit
+-Reworked C.O.R.E. Math
+-Removed Redundant Files (Stage 1 isolation)
+-Added Debug functionality to C.O.R.E. Module
+-Added Init Phase to make C.O.R.E. look cool!
+Indev 04 (Dev Prototype (Duh))
+-Added Usable Math file to actually use it like a calculator
+-Deleted some Stuff... Check the Logs for indepth stuff
+Indev 05
+-Tired of writing these, figure it out from the commits
